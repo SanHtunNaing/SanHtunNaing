@@ -50,7 +50,4 @@ I am a software developer focused on architecting clean, efficient solutions wit
   </a>
 </p>
 
-## 🐍 Contribution Snake
 
-ここに緑のドットを食べる蛇のアニメーションが表示されます：
-![Contribution Snake](https://raw.githubusercontent.com/SanHtunNaing/SanHtunNaing/output/github-contribution-grid-snake.svg)
