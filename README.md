@@ -17,12 +17,28 @@ I am a software developer focused on architecting clean, efficient solutions wit
 
 ---
 
-## 🛠️ MY PROVEN PROGRESS
+## 💻 Tech Stack
 
-> "Explore my daily repository to review structured solutions, data structure implementations, and a verified track record of my algorithmic growth."
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3570A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Activity & Streak
 
 <p align="left">
-  <a href="https://github.com/SanHtunNaing" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_GitHub-007acc?style=for-the-badge&logo=github&logoColor=white" alt="View My GitHub" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanHtunNaing&show_icons=true&theme=tokyonight&count_private=true" alt="SanHtunNaing's GitHub Stats" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanHtunNaing&theme=tokyonight" alt="SanHtunNaing's Streak" height="170px" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+ここに緑のドットを食べる蛇のアニメーションが表示されます：
+![Contribution Snake](https://raw.githubusercontent.com/SanHtunNaing/SanHtunNaing/output/github-contribution-grid-snake.svg)
