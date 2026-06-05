@@ -33,15 +33,6 @@ I am a software developer dedicated to architecting clean, efficient, and scalab
 
 ---
 
-## 🛠️ FEATURED PROJECTS
-*(ဒီနေရာမှာ ကိုယ့်ရဲ့ အကောင်းဆုံး Project 2-3 ခုကို Linked လုပ်ပေးပါ။ အလုပ်ရှင်တွေ အကြည့်ဆုံးအပိုင်း ဖြစ်လာပါလိမ့်မယ်)*
-
-*   **[Project Name 1](Link_To_Repo)** - Brief description of what it does.
-    * *Tech Stack:* TypeScript, React, Node.js, PostgreSQL
-*   **[Project Name 2](Link_To_Repo)** - Brief description focused on problem-solving or logic.
-    * *Tech Stack:* JavaScript (ES6+), Algorithm Implementation
-
----
 
 ## 📊 GitHub Activity & Analytics
 
@@ -52,7 +43,3 @@ I am a software developer dedicated to architecting clean, efficient, and scalab
 
 ---
 
-## 📫 CONNECT WITH ME
-
-- 💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
