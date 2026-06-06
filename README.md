@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm San Htun Naing (Alaric) ☀️
 
-I am a developer.
+<h2>I am a developer.</h2>
 
 ---
 
