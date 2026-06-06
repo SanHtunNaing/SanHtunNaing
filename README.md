@@ -21,7 +21,7 @@ I am a software developer dedicated to architecting clean, efficient, and scalab
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,supabase" />
   </a>
 </p>
 ---
