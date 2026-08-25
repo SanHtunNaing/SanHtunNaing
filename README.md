@@ -39,11 +39,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanHtunNaing&show_icons=true&theme=tokyonight&hide_border=true" alt="SanHtunNaing's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanHtunNaing&show_icons=true&theme=tokyonight&hide_border=true" alt="San Htun Naing's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanHtunNaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
-
----
 
 ### 📫 Connect with Me
 
