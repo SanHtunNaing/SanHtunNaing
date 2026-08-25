@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm San Htun Naing )</h1>
-<h3 align="center">A passionate Frontend Developer from Myanmar 🇲🇲</h3>
+<h3 align="center">A passionate Frontend Developer from Myanmar</h3>
 
 <p align="center">
   <a href="https://github.com/SanHtunNaing">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7006B&width=435&lines=Building+web+applications...;Learning+Vanilla+JavaScript...;Creating+responsive+UI+designs..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7006B&width=435&lines=Building+Web+Applications...;Practicing+Vanilla+JavaScript...;Developing+Responsive+Websites..." alt="Typing SVG" />
   </a>
 </p>
 
